@@ -1,4 +1,4 @@
-# First-Project #Java
+# OOPROG #Java
 This project is a simple mobile wallet app where in user can top up on account , send money to other accounts and transfer to different accounts and view account info using Java Swing JOptionPane
 
 import javax.swing.JOptionPane;
